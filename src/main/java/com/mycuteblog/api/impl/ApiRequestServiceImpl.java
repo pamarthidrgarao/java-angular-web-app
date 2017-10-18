@@ -1,8 +1,9 @@
-package com.mycuteblog.service.impl;
+package com.mycuteblog.api.impl;
 
-import com.mycuteblog.dao.ApiRequestDao;
-import com.mycuteblog.model.ApiRequest;
-import com.mycuteblog.service.ApiRequestService;
+import com.mycuteblog.api.ApiRequestService;
+import com.mycuteblog.entity.dao.ApiRequestDao;
+import com.mycuteblog.entity.model.ApiRequest;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;

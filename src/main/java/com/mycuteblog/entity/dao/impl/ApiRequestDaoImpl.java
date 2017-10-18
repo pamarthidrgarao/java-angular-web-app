@@ -1,7 +1,8 @@
-package com.mycuteblog.dao.impl;
+package com.mycuteblog.entity.dao.impl;
 
-import com.mycuteblog.dao.ApiRequestDao;
-import com.mycuteblog.model.ApiRequest;
+import com.mycuteblog.entity.dao.ApiRequestDao;
+import com.mycuteblog.entity.model.ApiRequest;
+
 import org.springframework.stereotype.Repository;
 
 import javax.persistence.EntityManager;

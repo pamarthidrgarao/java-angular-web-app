@@ -1,6 +1,6 @@
-package com.mycuteblog.service;
+package com.mycuteblog.api;
 
-import com.mycuteblog.model.ApiRequest;
+import com.mycuteblog.entity.model.ApiRequest;
 
 public interface ApiRequestService {
     void create(ApiRequest apiRequest);

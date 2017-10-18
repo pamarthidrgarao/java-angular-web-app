@@ -1,6 +1,6 @@
-package com.mycuteblog.dao;
+package com.mycuteblog.entity.dao;
 
-import com.mycuteblog.model.ApiRequest;
+import com.mycuteblog.entity.model.ApiRequest;
 
 public interface ApiRequestDao {
     void create(ApiRequest apiRequest);

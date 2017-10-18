@@ -1,4 +1,4 @@
-package com.mycuteblog.model;
+package com.mycuteblog.entity.model;
 
 import javax.persistence.*;
 import java.util.Date;

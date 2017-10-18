@@ -90,3 +90,8 @@ View in : https://spring-boot-angular-app2.herokuapp.com/.
 ### Live demo heroku deployed jar
 
 A demo is on https://spring-boot-angular-app.herokuapp.com/
+
+### h2 JPA integration
+
+View: http://javasampleapproach.com/spring-framework/spring-boot/integrate-h2-database-springboot-spring-jpa-embedded-mode and https://github.com/alexbt/sample-spring-boot-data-jpa-embedded
+
